@@ -1,0 +1,8 @@
+prefix=/home/komodo/komodo_speech/install
+
+Name: komodo_speech
+Description: Description of komodo_speech
+Version: 0.0.0
+Cflags: -I/home/komodo/komodo_speech/install/include
+Libs: -L/home/komodo/komodo_speech/install/lib 
+Requires: message_runtime
