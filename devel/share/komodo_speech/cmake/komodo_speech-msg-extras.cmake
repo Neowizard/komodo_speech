@@ -1,2 +1,0 @@
-set(komodo_speech_MESSAGE_FILES "/home/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechSayCommand.msg;/home/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechSayResult.msg;/home/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechRecCommand.msg;/home/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechRecResult.msg")
-set(komodo_speech_SERVICE_FILES "/home/komodo/komodo_speech/src/komodo_speech/srv/KomodoSpeechRunning.srv")

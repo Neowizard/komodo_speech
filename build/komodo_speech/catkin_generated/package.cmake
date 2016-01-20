@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "komodo_speech")
-set(komodo_speech_MAINTAINER "komodo <komodo@todo.todo>")
-set(komodo_speech_DEPRECATED "")
-set(komodo_speech_VERSION "0.0.0")
-set(komodo_speech_BUILD_DEPENDS "message_generation" "sound_play")
-set(komodo_speech_RUN_DEPENDS "message_runtime" "sound_play")
-set(komodo_speech_BUILDTOOL_DEPENDS "catkin")
