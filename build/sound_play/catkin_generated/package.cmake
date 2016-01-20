@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sound_play")
+set(sound_play_MAINTAINER "neowizard <neowizard@todo.todo>")
+set(sound_play_DEPRECATED "")
+set(sound_play_VERSION "0.0.0")
+set(sound_play_BUILD_DEPENDS )
+set(sound_play_RUN_DEPENDS )
+set(sound_play_BUILDTOOL_DEPENDS "catkin")

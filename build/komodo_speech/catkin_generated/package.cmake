@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "komodo_speech")
+set(komodo_speech_MAINTAINER "Lior Zur-Lotan <llutan@cs.bgu.ac.il>")
+set(komodo_speech_DEPRECATED "")
+set(komodo_speech_VERSION "0.0.0")
+set(komodo_speech_BUILD_DEPENDS "sound_play" "message_generation" "std_msgs")
+set(komodo_speech_RUN_DEPENDS "message_runtime" "sound_play" "std_msgs")
+set(komodo_speech_BUILDTOOL_DEPENDS "catkin")

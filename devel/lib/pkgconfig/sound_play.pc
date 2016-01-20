@@ -1,0 +1,8 @@
+prefix=/home/neowizard/school/komodo/komodo_speech/devel
+
+Name: sound_play
+Description: Description of sound_play
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/neowizard/school/komodo/komodo_speech/devel/lib 
+Requires: 

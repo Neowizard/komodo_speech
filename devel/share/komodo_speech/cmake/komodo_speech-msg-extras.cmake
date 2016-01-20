@@ -1,0 +1,2 @@
+set(komodo_speech_MESSAGE_FILES "/home/neowizard/school/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechSayCommand.msg;/home/neowizard/school/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechSayResult.msg;/home/neowizard/school/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechRecCommand.msg;/home/neowizard/school/komodo/komodo_speech/src/komodo_speech/msg/KomodoSpeechRecResult.msg")
+set(komodo_speech_SERVICE_FILES "/home/neowizard/school/komodo/komodo_speech/src/komodo_speech/srv/KomodoSpeechProcessing.srv")

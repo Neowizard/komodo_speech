@@ -1,0 +1,2 @@
+komodo_speech
+-DCATKIN_DEVEL_PREFIX=/home/neowizard/school/komodo/komodo_speech/devel -DCMAKE_INSTALL_PREFIX=/home/neowizard/school/komodo/komodo_speech/install -G Unix Makefiles
